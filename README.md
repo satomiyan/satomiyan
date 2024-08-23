@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @satomiyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 satomiyan/satomiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> 👩‍💻 Who am i </h1>
 
 ---
-
+<!---
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hey+there,+I'm+Ran.;I am a graduate student studying computer science at Northeastern University.;I have built a solid programming foundation and full-stack development experience.;" alt="Typing SVG" >
+--->
 
 <p align="center">
   <br>
@@ -27,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - &#11088; I work on **_Improving my skills_** in free time.
 - &#128526; I am **_super positive_** and I always look forward to new adventures around Tech.
+- 💞️ I’m looking to collaborate on **_open-source projects_** involving web development.
 
 <h2 align="center"> Programming Languages</h2>
 
